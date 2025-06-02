@@ -1,0 +1,34 @@
+[
+  {
+    "id": "admin",
+    "name": "Administrator",
+    "role": "admin",
+    "otp_created_at": null
+  },
+  {
+    "id": "employee",
+    "name": "Default Employee",
+    "role": "employee",
+    "otp_created_at": null
+  },
+  {
+    "id": "adm001",
+    "name": "Bob Johnson (Admin)",
+    "role": "admin",
+    "otp_created_at": null
+  },
+  {
+    "id": "hello",
+    "name": "HELLO",
+    "role": "admin",
+    "password": "hello",
+    "otp_created_at": null
+  },
+  {
+    "id": "Ashish",
+    "name": "Ashish Talati",
+    "role": "admin",
+    "password": "Ashish@1234",
+    "otp_created_at": null
+  }
+]
